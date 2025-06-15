@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  overflow-y: scroll;
+}
+::placeholder {
+  color: white;
+  opacity: 0.5;
+}
+
+input[type="textarea"] {
+  color: white;
+}
